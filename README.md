@@ -31,4 +31,4 @@ bash run_all.sh
 
 ## Acknowledgement:
 
-Thank you @KanadeSiina for your support of this project!# PL-Mix
+Thank you @KanadeSiina for your support of this project!
