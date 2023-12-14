@@ -5,9 +5,13 @@ This work has been accepted as the long paper ''On Unsupervised Domain Adaptatio
 ## Requirements:
 
 python==3.8.10
+
 numpy==1.24.3
+
 tokenizers==0.9.4
+
 torch==1.10.0
+
 transformers==4.1.1
 
 ## Run:
